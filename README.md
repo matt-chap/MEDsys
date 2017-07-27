@@ -6,15 +6,15 @@ Write a small web application that solves the following business needs:
 
 -	Allows you to add an appointment to a data store of some kind.
 
-  o	You do not need to include the creation of a database (unless you want to). It could be a simple in memory list/container.
+      o	You do not need to include the creation of a database (unless you want to). It could be a simple in memory list/container.
 
 -	An appointment has a client, a staff, and one or more service lines.
 
-  o	A client has a first name, last name, and a birth date.
+      o	A client has a first name, last name, and a birth date.
   
-  o	A staff has a first name, last name, and a specialty value.
+      o	A staff has a first name, last name, and a specialty value.
   
-  o	A service line has a start time, end time, and a service (a simple string is fine, again it's about organization).
+      o	A service line has a start time, end time, and a service (a simple string is fine, again it's about organization).
 
 The following business rule/validations should exist:
 
